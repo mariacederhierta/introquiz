@@ -7,7 +7,7 @@ A simple learner app for training sessions with two activities:
 
 Learners join by scanning a QR code or opening a link. **No sign-in, no app to install.**
 
-**Learner address:** https://mariacederhierta.github.io/introquiz/
+**Learner address:** https://aka.ms/introquiz/
 
 ---
 
